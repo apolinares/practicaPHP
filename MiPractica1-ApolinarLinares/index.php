@@ -33,7 +33,9 @@
                 <a href="complejos.php" class="list-group-item list-group-item-action">
                     Ejercicio 3: Operaciones con Números Complejos
                 </a>
-
+                <a href="array_operaciones.php" class="list-group-item list-group-item-action">
+                    Ejercicio 4: Cálculos con un Array de Números
+                </a>
             </div>
         </div>
     </body>
