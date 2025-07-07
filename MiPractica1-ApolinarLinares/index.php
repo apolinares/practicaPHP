@@ -24,11 +24,8 @@
             <h3>Bienvenido a los ejercicios prácticos en PHP</h3>
             <h3>Participante: Apolinar Linares Flores</h3>
             <div class="list-group">
-                <a href="multiplicacion_rusa.php" class="list-group-item list-group-item-action">
-                    Ejercicio 1: Método de multiplicación Ruso
-                </a>
-                <a href="palindromo.php" class="list-group-item list-group-item-action">
-                    Ejercicio 2: Verificar si un número es palíndromo
+                <a href="#" class="list-group-item list-group-item-action">
+                    En esta seccion se mostrara el listado de los ejercicios resueltos
                 </a>
             </div>
         </div>
